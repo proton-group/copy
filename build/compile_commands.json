@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/anatoly/programs/copy/build",
+  "command": "/usr/bin/g++ -I/home/anatoly/programs/copy -g -std=gnu++20 -o CMakeFiles/copy.dir/test.o -c /home/anatoly/programs/copy/test.cpp",
+  "file": "/home/anatoly/programs/copy/test.cpp"
+}
+]
